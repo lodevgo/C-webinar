@@ -1,0 +1,14 @@
+/Users/test/Desktop/webinar_languages/lesson1/bin/Debug/net8.0/lesson_1
+/Users/test/Desktop/webinar_languages/lesson1/bin/Debug/net8.0/lesson_1.deps.json
+/Users/test/Desktop/webinar_languages/lesson1/bin/Debug/net8.0/lesson_1.runtimeconfig.json
+/Users/test/Desktop/webinar_languages/lesson1/bin/Debug/net8.0/lesson_1.dll
+/Users/test/Desktop/webinar_languages/lesson1/bin/Debug/net8.0/lesson_1.pdb
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.AssemblyInfoInputs.cache
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.AssemblyInfo.cs
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.dll
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/refint/lesson_1.dll
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.pdb
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/lesson_1.genruntimeconfig.cache
+/Users/test/Desktop/webinar_languages/lesson1/obj/Debug/net8.0/ref/lesson_1.dll
